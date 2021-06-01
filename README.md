@@ -4,7 +4,7 @@ My name is Zack Sargent.
 
 I work most heavily with Javascript and Front-end development, but I mess around in other tech stacks as well.
 
-I am a junior in high school.
+I am a senior in high school.
 
 ## Notable Projects:
 
