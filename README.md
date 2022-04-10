@@ -4,8 +4,6 @@ My name is Zack Sargent.
 
 I work most heavily with Javascript and Front-end development, but I mess around in other tech stacks as well.
 
-[![I am 17 years old](https://2s6b6ee2wj.execute-api.us-east-2.amazonaws.com/default/badge-age)](https://github.com/zsarge/age-badge).
-
 ## Notable Projects:
 
 > **[Wiki Races](https://github.com/ElderINTERalliance/WikiRaces2021)**
