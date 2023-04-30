@@ -8,7 +8,7 @@ I also have a strong history in web development.
 
 ## Notable Projects:
 
-> **[Wiki Races](https://github.com/ElderINTERalliance/WikiRaces2021)**
+> **[Wiki Races](https://github.com/INTERallianceGC/WikiRaces)**
 > is a website I developed for an online tech conference called [TechOlympics](https://techolympics.org/). 
 > The goal of Wiki Races is to start on a Wikipedia page and get to another Wikipedia page as fast as possible.
 > This project features an ExpressJS website that dynamically generates and cleans up Wikipedia pages for the players
